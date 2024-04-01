@@ -1,0 +1,8 @@
+{
+    "name": "Learning Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": ["GitHub.copilot"]
+        }
+    }
+}
